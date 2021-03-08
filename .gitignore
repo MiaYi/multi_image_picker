@@ -9,3 +9,5 @@ pubspec.lock
 build/
 .vscode
 .flutter-plugins-dependencies
+.fvm/flutter_sdk
+.fvm/fvm_config.json
